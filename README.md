@@ -9,7 +9,10 @@
 </p>
 
 <p align="left">
-  <h3> 🦄 Linguagens: </h3>  
+  <h3> 🦄 Linguagens: </h3>    
+</p>
+
+<p align="left">
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
   <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -20,6 +23,9 @@
 
 <p align="left">
   <h3>  :hammer_and_wrench: Frameworks e Ferramentas: </h3>  
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <code><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
