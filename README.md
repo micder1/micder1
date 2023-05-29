@@ -10,8 +10,8 @@
 
 <p align="left">
   🦄 <h3> Linguagens e Ferramentas: </h3>  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="left">
   💌 redes: ⤵️
