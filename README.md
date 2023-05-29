@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  💌 redes: ⤵️
+  <h3> 💌 redes: ⤵️ </h3>
 </p>
 
 <p align="left">
