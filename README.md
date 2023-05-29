@@ -1,5 +1,34 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left">
+```java
+  class Tulio extends Human {
+    private String universidade;
+    private String empresa;
+
+    public Tulio(String nome, String universidade, String empresa) {
+        super(nome);
+        this.universidade = universidade;
+        this.empresa = empresa;
+    }
+
+    public void apresentacao() {
+        System.out.println("Olá, eu sou " + nome);
+        System.out.println("Sou estudante na " + universidade);
+        System.out.println("Atualmente, estou fazendo estágio na empresa " + empresa);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Tulio tulio = new Tulio("Tulio", "PUC Minas", "Group Software");
+        tulio.apresentacao();
+    }
+}
+
+```
+</p>
+
 <p align="left"> 
   Olá! Sou estagiário em desenvolvimento Full-Stack na Group Software e aluno da PUC Minas.<br>
   Atualmente estou aprimorando meus conhecimentos em Spring, Angular e React.
