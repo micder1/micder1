@@ -2,8 +2,10 @@
 
 <p align="left"> 
   <h4> Olá! :wave: </h4>
-  Atualmente ou estagiário em desenvolvimento Full-Stack na Group Software e aluno da PUC Minas.<br>
-  Atualmente estou aprimorando meus conhecimentos em Spring, Angular e React.
+  <ul>
+  <li>Atualmente ou estagiário em desenvolvimento Full-Stack na :rocket: Group Software e aluno da PUC Minas. </li>
+  <li>Atualmente estou aprimorando meus conhecimentos em Spring, Angular e React. </li>
+  </ul>
 </p>
 
 <p align="left">
