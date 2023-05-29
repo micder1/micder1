@@ -9,8 +9,8 @@
 </p>
 
 <p align="left">
-  🦄 <h3> Linguagens e Ferramentas: </h3>  
-  <code><img height="30" src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"></code>
+  <h3> 🦄 Linguagens e Ferramentas: </h3>  
+  <code><img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"></code>
 </p>
 
 <p align="left">
