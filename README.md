@@ -2,7 +2,7 @@
 <p align="left"> 
   <h3> Olá! :wave: </h4>
   <ul>
-  <li>Atualmente sou estagiário em desenvolvimento Full-Stack na :rocket: Group Software e aluno da PUC Minas. </li>
+  <li>Atualmente sou desenvolvedor Full-Stack na :rocket: Group Software e aluno da PUC Minas. </li>
   <li>Estou aprimorando meus conhecimentos em Spring, Angular e React. </li>
   </ul>
 </p>
